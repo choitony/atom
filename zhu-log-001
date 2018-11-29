@@ -1,0 +1,1004 @@
+rsw1.net.mdu20-b-n58.n.p.dc07# show logging logfile | last 1000
+2018 Nov 28 22:10:07.157 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel4 is down (No operational members)
+2018 Nov 28 22:10:07.165 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel4, operational speed changed to 1 Gbps
+2018 Nov 28 22:10:07.165 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel4, operational duplex mode changed to Full
+2018 Nov 28 22:10:07.165 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel4, operational Receive Flow Control state changed to off
+2018 Nov 28 22:10:07.165 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel4, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:10:08.890 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel6: Ethernet1/6 is up
+2018 Nov 28 22:10:08.920 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel6: first operational port changed from none to Ethernet1/6
+2018 Nov 28 22:10:08.973 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/6 (description:) is up in mode access
+2018 Nov 28 22:10:08.988 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel6 is up in mode access
+2018 Nov 28 22:10:09.038 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel32: Ethernet1/32 is down
+2018 Nov 28 22:10:09.055 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel32: first operational port changed from Ethernet1/32 to none
+2018 Nov 28 22:10:09.074 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel32 is down (No operational members)
+2018 Nov 28 22:10:09.259 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/32 (description:) is down (Initializing)
+2018 Nov 28 22:10:09.260 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel32 is down (No operational members)
+2018 Nov 28 22:10:09.280 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel32, operational speed changed to 1 Gbps
+2018 Nov 28 22:10:09.280 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel32, operational duplex mode changed to Full
+2018 Nov 28 22:10:09.280 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel32, operational Receive Flow Control state changed to off
+2018 Nov 28 22:10:09.280 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel32, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:10:09.353 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel17: Ethernet1/17 is down
+2018 Nov 28 22:10:09.370 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel17: first operational port changed from Ethernet1/17 to none
+2018 Nov 28 22:10:09.402 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel17 is down (No operational members)
+2018 Nov 28 22:10:09.486 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel16: Ethernet1/16 is down
+2018 Nov 28 22:10:09.583 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/17 (description:) is down (Initializing)
+2018 Nov 28 22:10:09.592 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel17 is down (No operational members)
+2018 Nov 28 22:10:09.597 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel16: first operational port changed from Ethernet1/16 to none
+2018 Nov 28 22:10:09.640 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel16 is down (No operational members)
+2018 Nov 28 22:10:09.646 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel17, operational speed changed to 1 Gbps
+2018 Nov 28 22:10:09.646 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel17, operational duplex mode changed to Full
+2018 Nov 28 22:10:09.646 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel17, operational Receive Flow Control state changed to off
+2018 Nov 28 22:10:09.646 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel17, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:10:09.813 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/16 (description:) is down (Initializing)
+2018 Nov 28 22:10:09.822 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel16 is down (No operational members)
+2018 Nov 28 22:10:09.834 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel16, operational speed changed to 1 Gbps
+2018 Nov 28 22:10:09.834 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel16, operational duplex mode changed to Full
+2018 Nov 28 22:10:09.834 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel16, operational Receive Flow Control state changed to off
+2018 Nov 28 22:10:09.834 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel16, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:10:10.358 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel4: Ethernet1/4 is up
+2018 Nov 28 22:10:10.379 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel4: first operational port changed from none to Ethernet1/4
+2018 Nov 28 22:10:10.436 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/4 (description:) is up in mode access
+2018 Nov 28 22:10:10.456 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel4 is up in mode access
+2018 Nov 28 22:10:11.100 rsw1.net.mdu20-b-n58.n.p.dc07 %L2FM-2-L2FM_MAC_FLAP_RE_ENABLE_LEARN_N3K: Re-enabling dynamic learning on vlan 1020
+2018 Nov 28 22:10:11.540 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel34: Ethernet1/34 is up
+2018 Nov 28 22:10:11.560 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel34: first operational port changed from none to Ethernet1/34
+2018 Nov 28 22:10:11.568 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/34 (description:) is up in mode access
+2018 Nov 28 22:10:11.593 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel34 is up in mode access
+2018 Nov 28 22:10:11.738 rsw1.net.mdu20-b-n58.n.p.dc07 %L2FM-2-L2FM_MAC_FLAP_DISABLE_LEARN_N3K: Loops detected in the network for mac 0242.c021.32b7 among ports Po20 and Eth1/37 vlan 1020 - Disabling dyna
+mic learning notifications for a period between 120 and 240 seconds on vlan 1020
+2018 Nov 28 22:10:12.516 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel32: Ethernet1/32 is up
+2018 Nov 28 22:10:12.535 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel32: first operational port changed from none to Ethernet1/32
+2018 Nov 28 22:10:12.541 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/32 (description:) is up in mode access
+2018 Nov 28 22:10:12.567 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel32 is up in mode access
+2018 Nov 28 22:10:12.728 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel15: Ethernet1/15 is down
+2018 Nov 28 22:10:12.745 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel15: first operational port changed from Ethernet1/15 to none
+2018 Nov 28 22:10:12.771 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel15 is down (No operational members)
+2018 Nov 28 22:10:12.808 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/15 (description:) is down (Initializing)
+2018 Nov 28 22:10:12.815 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel15 is down (No operational members)
+2018 Nov 28 22:10:12.871 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel15, operational speed changed to 1 Gbps
+2018 Nov 28 22:10:12.871 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel15, operational duplex mode changed to Full
+2018 Nov 28 22:10:12.871 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel15, operational Receive Flow Control state changed to off
+2018 Nov 28 22:10:12.871 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel15, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:10:13.022 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel17: Ethernet1/17 is up
+2018 Nov 28 22:10:13.042 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel17: first operational port changed from none to Ethernet1/17
+2018 Nov 28 22:10:13.101 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/17 (description:) is up in mode access
+2018 Nov 28 22:10:13.139 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel17 is up in mode access
+2018 Nov 28 22:10:13.170 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel16: Ethernet1/16 is up
+2018 Nov 28 22:10:13.242 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel16: first operational port changed from none to Ethernet1/16
+2018 Nov 28 22:10:13.247 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/16 (description:) is up in mode access
+2018 Nov 28 22:10:13.268 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel16 is up in mode access
+2018 Nov 28 22:10:13.540 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel22: Ethernet1/22 is down
+2018 Nov 28 22:10:13.556 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel22: first operational port changed from Ethernet1/22 to none
+2018 Nov 28 22:10:13.572 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel22 is down (No operational members)
+2018 Nov 28 22:10:13.752 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/22 (description:) is down (Initializing)
+2018 Nov 28 22:10:13.758 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel22 is down (No operational members)
+2018 Nov 28 22:10:13.772 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel22, operational speed changed to 1 Gbps
+2018 Nov 28 22:10:13.772 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel22, operational duplex mode changed to Full
+2018 Nov 28 22:10:13.772 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel22, operational Receive Flow Control state changed to off
+2018 Nov 28 22:10:13.772 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel22, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:10:14.384 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel25: Ethernet1/25 is down
+2018 Nov 28 22:10:14.398 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel25: first operational port changed from Ethernet1/25 to none
+2018 Nov 28 22:10:14.422 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel25 is down (No operational members)
+2018 Nov 28 22:10:14.452 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/25 (description:) is down (Initializing)
+2018 Nov 28 22:10:14.460 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel25 is down (No operational members)
+2018 Nov 28 22:10:14.469 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel30: Ethernet1/30 is down
+2018 Nov 28 22:10:14.521 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel25, operational speed changed to 1 Gbps
+2018 Nov 28 22:10:14.521 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel25, operational duplex mode changed to Full
+2018 Nov 28 22:10:14.521 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel25, operational Receive Flow Control state changed to off
+2018 Nov 28 22:10:14.521 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel25, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:10:14.535 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel30: first operational port changed from Ethernet1/30 to none
+2018 Nov 28 22:10:14.555 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel30 is down (No operational members)
+2018 Nov 28 22:10:14.585 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/30 (description:) is down (Initializing)
+2018 Nov 28 22:10:14.598 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel30 is down (No operational members)
+2018 Nov 28 22:10:14.657 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel30, operational speed changed to 1 Gbps
+2018 Nov 28 22:10:14.657 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel30, operational duplex mode changed to Full
+2018 Nov 28 22:10:14.657 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel30, operational Receive Flow Control state changed to off
+2018 Nov 28 22:10:14.657 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel30, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:10:14.764 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel7: Ethernet1/7 is down
+2018 Nov 28 22:10:14.779 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel7: first operational port changed from Ethernet1/7 to none
+2018 Nov 28 22:10:14.799 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel7 is down (No operational members)
+2018 Nov 28 22:10:14.971 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/7 (description:) is down (Initializing)
+2018 Nov 28 22:10:14.978 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel7 is down (No operational members)
+2018 Nov 28 22:10:14.990 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel7, operational speed changed to 1 Gbps
+2018 Nov 28 22:10:14.990 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel7, operational duplex mode changed to Full
+2018 Nov 28 22:10:14.990 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel7, operational Receive Flow Control state changed to off
+2018 Nov 28 22:10:14.990 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel7, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:10:15.885 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel8: Ethernet1/8 is down
+2018 Nov 28 22:10:15.902 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel8: first operational port changed from Ethernet1/8 to none
+2018 Nov 28 22:10:15.978 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel15: Ethernet1/15 is up
+2018 Nov 28 22:10:16.054 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel8 is down (No operational members)
+2018 Nov 28 22:10:16.058 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel15: first operational port changed from none to Ethernet1/15
+2018 Nov 28 22:10:16.072 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/15 (description:) is up in mode access
+2018 Nov 28 22:10:16.107 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel15 is up in mode access
+2018 Nov 28 22:10:16.119 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/8 (description:) is down (Initializing)
+2018 Nov 28 22:10:16.134 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel8 is down (No operational members)
+2018 Nov 28 22:10:16.144 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel8, operational speed changed to 1 Gbps
+2018 Nov 28 22:10:16.144 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel8, operational duplex mode changed to Full
+2018 Nov 28 22:10:16.144 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel8, operational Receive Flow Control state changed to off
+2018 Nov 28 22:10:16.144 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel8, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:10:17.180 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel22: Ethernet1/22 is up
+2018 Nov 28 22:10:17.200 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel22: first operational port changed from none to Ethernet1/22
+2018 Nov 28 22:10:17.205 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/22 (description:) is up in mode access
+2018 Nov 28 22:10:17.222 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel22 is up in mode access
+2018 Nov 28 22:10:17.563 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel25: Ethernet1/25 is up
+2018 Nov 28 22:10:17.584 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel25: first operational port changed from none to Ethernet1/25
+2018 Nov 28 22:10:17.643 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/25 (description:) is up in mode access
+2018 Nov 28 22:10:17.686 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel25 is up in mode access
+2018 Nov 28 22:10:17.752 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel30: Ethernet1/30 is up
+2018 Nov 28 22:10:17.772 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel30: first operational port changed from none to Ethernet1/30
+2018 Nov 28 22:10:17.779 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/30 (description:) is up in mode access
+2018 Nov 28 22:10:17.806 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel30 is up in mode access
+2018 Nov 28 22:10:18.348 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel7: Ethernet1/7 is up
+2018 Nov 28 22:10:18.370 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel7: first operational port changed from none to Ethernet1/7
+2018 Nov 28 22:10:18.375 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/7 (description:) is up in mode access
+2018 Nov 28 22:10:18.412 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel7 is up in mode access
+2018 Nov 28 22:10:19.386 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel8: Ethernet1/8 is up
+2018 Nov 28 22:10:19.456 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel8: first operational port changed from none to Ethernet1/8
+2018 Nov 28 22:10:19.466 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/8 (description:) is up in mode access
+2018 Nov 28 22:10:19.491 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel8 is up in mode access
+2018 Nov 28 22:10:21.569 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel35: Ethernet1/35 is up
+2018 Nov 28 22:10:21.594 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel35: first operational port changed from none to Ethernet1/35
+2018 Nov 28 22:10:21.648 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/35 (description:) is up in mode access
+2018 Nov 28 22:10:21.677 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel35 is up in mode access
+2018 Nov 28 22:10:51.540 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel29: Ethernet1/29 is up
+2018 Nov 28 22:10:51.612 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel29: first operational port changed from none to Ethernet1/29
+2018 Nov 28 22:10:51.620 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/29 (description:) is up in mode access
+2018 Nov 28 22:10:51.650 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel29 is up in mode access
+2018 Nov 28 22:10:51.711 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel9: Ethernet1/9 is up
+2018 Nov 28 22:10:51.797 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel9: first operational port changed from none to Ethernet1/9
+2018 Nov 28 22:10:51.853 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/9 (description:) is up in mode access
+2018 Nov 28 22:10:51.881 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel9 is up in mode access
+2018 Nov 28 22:10:51.902 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel19: Ethernet1/19 is up
+2018 Nov 28 22:10:51.926 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel19: first operational port changed from none to Ethernet1/19
+2018 Nov 28 22:10:51.937 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/19 (description:) is up in mode access
+2018 Nov 28 22:10:51.938 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel5: Ethernet1/5 is up
+2018 Nov 28 22:10:51.981 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel19 is up in mode access
+2018 Nov 28 22:10:51.996 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel5: first operational port changed from none to Ethernet1/5
+2018 Nov 28 22:10:52.007 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/5 (description:) is up in mode access
+2018 Nov 28 22:10:52.025 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel5 is up in mode access
+2018 Nov 28 22:11:37.620 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel27: Ethernet1/27 is down
+2018 Nov 28 22:11:37.638 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel27: first operational port changed from Ethernet1/27 to none
+2018 Nov 28 22:11:37.651 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel27 is down (No operational members)
+2018 Nov 28 22:11:37.690 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/27 (description:) is down (Initializing)
+2018 Nov 28 22:11:37.698 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel27 is down (No operational members)
+2018 Nov 28 22:11:37.754 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel27, operational speed changed to 1 Gbps
+2018 Nov 28 22:11:37.754 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel27, operational duplex mode changed to Full
+2018 Nov 28 22:11:37.754 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel27, operational Receive Flow Control state changed to off
+2018 Nov 28 22:11:37.754 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel27, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:11:37.993 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel18: Ethernet1/18 is down
+2018 Nov 28 22:11:38.014 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel11: Ethernet1/11 is down
+2018 Nov 28 22:11:38.015 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel18: first operational port changed from Ethernet1/18 to none
+2018 Nov 28 22:11:38.030 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel23: Ethernet1/23 is down
+2018 Nov 28 22:11:38.045 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel18 is down (No operational members)
+2018 Nov 28 22:11:38.123 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel11: first operational port changed from Ethernet1/11 to none
+2018 Nov 28 22:11:38.280 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel23: first operational port changed from Ethernet1/23 to none
+2018 Nov 28 22:11:38.284 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/18 (description:) is down (Initializing)
+2018 Nov 28 22:11:38.300 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel18 is down (No operational members)
+2018 Nov 28 22:11:38.323 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel11 is down (No operational members)
+2018 Nov 28 22:11:38.329 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel18, operational speed changed to 1 Gbps
+2018 Nov 28 22:11:38.329 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel18, operational duplex mode changed to Full
+2018 Nov 28 22:11:38.329 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel18, operational Receive Flow Control state changed to off
+2018 Nov 28 22:11:38.329 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel18, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:11:38.491 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel23 is down (No operational members)
+2018 Nov 28 22:11:38.518 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/11 (description:) is down (Initializing)
+2018 Nov 28 22:11:38.529 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel11 is down (No operational members)
+2018 Nov 28 22:11:38.543 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel11, operational speed changed to 1 Gbps
+2018 Nov 28 22:11:38.543 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel11, operational duplex mode changed to Full
+2018 Nov 28 22:11:38.543 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel11, operational Receive Flow Control state changed to off
+2018 Nov 28 22:11:38.543 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel11, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:11:38.638 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/23 (description:) is down (Initializing)
+2018 Nov 28 22:11:38.648 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel23 is down (No operational members)
+2018 Nov 28 22:11:38.661 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel23, operational speed changed to 1 Gbps
+2018 Nov 28 22:11:38.661 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel23, operational duplex mode changed to Full
+2018 Nov 28 22:11:38.661 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel23, operational Receive Flow Control state changed to off
+2018 Nov 28 22:11:38.661 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel23, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:11:39.534 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel20: Ethernet1/20 is down
+2018 Nov 28 22:11:39.549 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel20: first operational port changed from Ethernet1/20 to none
+2018 Nov 28 22:11:39.567 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel20 is down (No operational members)
+2018 Nov 28 22:11:39.597 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/20 (description:) is down (Initializing)
+2018 Nov 28 22:11:39.605 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel20 is down (No operational members)
+2018 Nov 28 22:11:39.664 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel20, operational speed changed to 1 Gbps
+2018 Nov 28 22:11:39.664 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel20, operational duplex mode changed to Full
+2018 Nov 28 22:11:39.664 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel20, operational Receive Flow Control state changed to off
+2018 Nov 28 22:11:39.664 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel20, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:11:41.107 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel27: Ethernet1/27 is up
+2018 Nov 28 22:11:41.187 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel27: first operational port changed from none to Ethernet1/27
+2018 Nov 28 22:11:41.199 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/27 (description:) is up in mode access
+2018 Nov 28 22:11:41.218 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel11: Ethernet1/11 is up
+2018 Nov 28 22:11:41.240 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel27 is up in mode access
+2018 Nov 28 22:11:41.342 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel11: first operational port changed from none to Ethernet1/11
+2018 Nov 28 22:11:41.351 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/11 (description:) is up in mode access
+2018 Nov 28 22:11:41.376 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel11 is up in mode access
+2018 Nov 28 22:11:41.400 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel18: Ethernet1/18 is up
+2018 Nov 28 22:11:41.420 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel18: first operational port changed from none to Ethernet1/18
+2018 Nov 28 22:11:41.432 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/18 (description:) is up in mode access
+2018 Nov 28 22:11:41.446 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel18 is up in mode access
+2018 Nov 28 22:11:41.723 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel23: Ethernet1/23 is up
+2018 Nov 28 22:11:41.801 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel23: first operational port changed from none to Ethernet1/23
+2018 Nov 28 22:11:41.811 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/23 (description:) is up in mode access
+2018 Nov 28 22:11:41.826 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel23 is up in mode access
+2018 Nov 28 22:11:42.445 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel6: Ethernet1/6 is down
+2018 Nov 28 22:11:42.461 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel6: first operational port changed from Ethernet1/6 to none
+2018 Nov 28 22:11:42.499 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel6 is down (No operational members)
+2018 Nov 28 22:11:42.517 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/6 (description:) is down (Initializing)
+2018 Nov 28 22:11:42.524 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel6 is down (No operational members)
+2018 Nov 28 22:11:42.579 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel6, operational speed changed to 1 Gbps
+2018 Nov 28 22:11:42.579 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel6, operational duplex mode changed to Full
+2018 Nov 28 22:11:42.579 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel6, operational Receive Flow Control state changed to off
+2018 Nov 28 22:11:42.579 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel6, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:11:43.027 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel20: Ethernet1/20 is up
+2018 Nov 28 22:11:43.104 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel20: first operational port changed from none to Ethernet1/20
+2018 Nov 28 22:11:43.112 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/20 (description:) is up in mode access
+2018 Nov 28 22:11:43.132 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel20 is up in mode access
+2018 Nov 28 22:11:45.088 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel34: Ethernet1/34 is down
+2018 Nov 28 22:11:45.114 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel34: first operational port changed from Ethernet1/34 to none
+2018 Nov 28 22:11:45.134 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel34 is down (No operational members)
+2018 Nov 28 22:11:45.174 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/34 (description:) is down (Initializing)
+2018 Nov 28 22:11:45.182 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel34 is down (No operational members)
+2018 Nov 28 22:11:45.231 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel34, operational speed changed to 1 Gbps
+2018 Nov 28 22:11:45.231 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel34, operational duplex mode changed to Full
+2018 Nov 28 22:11:45.231 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel34, operational Receive Flow Control state changed to off
+2018 Nov 28 22:11:45.231 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel34, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:11:45.934 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel6: Ethernet1/6 is up
+2018 Nov 28 22:11:45.954 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel6: first operational port changed from none to Ethernet1/6
+2018 Nov 28 22:11:46.008 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/6 (description:) is up in mode access
+2018 Nov 28 22:11:46.026 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel6 is up in mode access
+2018 Nov 28 22:11:46.071 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel32: Ethernet1/32 is down
+2018 Nov 28 22:11:46.091 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel32: first operational port changed from Ethernet1/32 to none
+2018 Nov 28 22:11:46.112 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel32 is down (No operational members)
+2018 Nov 28 22:11:46.154 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/32 (description:) is down (Initializing)
+2018 Nov 28 22:11:46.161 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel32 is down (No operational members)
+2018 Nov 28 22:11:46.212 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel32, operational speed changed to 1 Gbps
+2018 Nov 28 22:11:46.212 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel32, operational duplex mode changed to Full
+2018 Nov 28 22:11:46.212 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel32, operational Receive Flow Control state changed to off
+2018 Nov 28 22:11:46.212 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel32, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:11:47.019 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel16: Ethernet1/16 is down
+2018 Nov 28 22:11:47.034 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel16: first operational port changed from Ethernet1/16 to none
+2018 Nov 28 22:11:47.061 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel16 is down (No operational members)
+2018 Nov 28 22:11:47.094 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/16 (description:) is down (Initializing)
+2018 Nov 28 22:11:47.099 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel16 is down (No operational members)
+2018 Nov 28 22:11:47.156 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel16, operational speed changed to 1 Gbps
+2018 Nov 28 22:11:47.156 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel16, operational duplex mode changed to Full
+2018 Nov 28 22:11:47.156 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel16, operational Receive Flow Control state changed to off
+2018 Nov 28 22:11:47.156 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel16, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:11:48.573 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel34: Ethernet1/34 is up
+2018 Nov 28 22:11:48.602 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel34: first operational port changed from none to Ethernet1/34
+2018 Nov 28 22:11:48.655 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/34 (description:) is up in mode access
+2018 Nov 28 22:11:48.682 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel34 is up in mode access
+2018 Nov 28 22:11:48.801 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel28: Ethernet1/28 is down
+2018 Nov 28 22:11:48.817 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel28: first operational port changed from Ethernet1/28 to none
+2018 Nov 28 22:11:48.836 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel28 is down (No operational members)
+2018 Nov 28 22:11:48.862 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/28 (description:) is down (Initializing)
+2018 Nov 28 22:11:48.870 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel28 is down (No operational members)
+2018 Nov 28 22:11:48.932 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel28, operational speed changed to 1 Gbps
+2018 Nov 28 22:11:48.932 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel28, operational duplex mode changed to Full
+2018 Nov 28 22:11:48.932 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel28, operational Receive Flow Control state changed to off
+2018 Nov 28 22:11:48.932 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel28, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:11:49.561 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel32: Ethernet1/32 is up
+2018 Nov 28 22:11:49.581 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel32: first operational port changed from none to Ethernet1/32
+2018 Nov 28 22:11:49.643 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/32 (description:) is up in mode access
+2018 Nov 28 22:11:49.659 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel32 is up in mode access
+2018 Nov 28 22:11:50.200 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel16: Ethernet1/16 is up
+2018 Nov 28 22:11:50.219 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel16: first operational port changed from none to Ethernet1/16
+2018 Nov 28 22:11:50.225 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/16 (description:) is up in mode access
+2018 Nov 28 22:11:50.254 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel16 is up in mode access
+2018 Nov 28 22:11:50.738 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel22: Ethernet1/22 is down
+2018 Nov 28 22:11:50.758 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel22: first operational port changed from Ethernet1/22 to none
+2018 Nov 28 22:11:50.775 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel22 is down (No operational members)
+2018 Nov 28 22:11:50.804 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/22 (description:) is down (Initializing)
+2018 Nov 28 22:11:50.815 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel22 is down (No operational members)
+2018 Nov 28 22:11:50.821 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel22, operational speed changed to 1 Gbps
+2018 Nov 28 22:11:50.821 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel22, operational duplex mode changed to Full
+2018 Nov 28 22:11:50.821 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel22, operational Receive Flow Control state changed to off
+2018 Nov 28 22:11:50.821 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel22, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:11:52.294 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel28: Ethernet1/28 is up
+2018 Nov 28 22:11:52.315 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel28: first operational port changed from none to Ethernet1/28
+2018 Nov 28 22:11:52.368 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/28 (description:) is up in mode access
+2018 Nov 28 22:11:52.385 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel28 is up in mode access
+2018 Nov 28 22:11:53.226 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel8: Ethernet1/8 is down
+2018 Nov 28 22:11:53.242 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel8: first operational port changed from Ethernet1/8 to none
+2018 Nov 28 22:11:53.260 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel8 is down (No operational members)
+2018 Nov 28 22:11:53.292 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/8 (description:) is down (Initializing)
+2018 Nov 28 22:11:53.300 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel8 is down (No operational members)
+2018 Nov 28 22:11:53.357 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel8, operational speed changed to 1 Gbps
+2018 Nov 28 22:11:53.357 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel8, operational duplex mode changed to Full
+2018 Nov 28 22:11:53.357 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel8, operational Receive Flow Control state changed to off
+2018 Nov 28 22:11:53.357 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel8, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:11:54.224 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel22: Ethernet1/22 is up
+2018 Nov 28 22:11:54.242 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel22: first operational port changed from none to Ethernet1/22
+2018 Nov 28 22:11:54.252 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/22 (description:) is up in mode access
+2018 Nov 28 22:11:54.267 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel22 is up in mode access
+2018 Nov 28 22:11:55.404 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel35: Ethernet1/35 is down
+2018 Nov 28 22:11:55.420 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel35: first operational port changed from Ethernet1/35 to none
+2018 Nov 28 22:11:55.440 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel35 is down (No operational members)
+2018 Nov 28 22:11:55.470 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/35 (description:) is down (Initializing)
+2018 Nov 28 22:11:55.476 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel35 is down (No operational members)
+2018 Nov 28 22:11:55.535 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel35, operational speed changed to 1 Gbps
+2018 Nov 28 22:11:55.535 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel35, operational duplex mode changed to Full
+2018 Nov 28 22:11:55.535 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel35, operational Receive Flow Control state changed to off
+2018 Nov 28 22:11:55.535 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel35, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:11:56.403 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel8: Ethernet1/8 is up
+2018 Nov 28 22:11:56.421 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel8: first operational port changed from none to Ethernet1/8
+2018 Nov 28 22:11:56.479 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/8 (description:) is up in mode access
+2018 Nov 28 22:11:56.517 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel8 is up in mode access
+2018 Nov 28 22:11:58.576 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel35: Ethernet1/35 is up
+2018 Nov 28 22:11:58.602 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel35: first operational port changed from none to Ethernet1/35
+2018 Nov 28 22:11:58.656 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/35 (description:) is up in mode access
+2018 Nov 28 22:11:58.672 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel35 is up in mode access
+2018 Nov 28 22:12:09.192 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel3: Ethernet1/3 is down
+2018 Nov 28 22:12:09.208 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel3: first operational port changed from Ethernet1/3 to none
+2018 Nov 28 22:12:09.230 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel3 is down (No operational members)
+2018 Nov 28 22:12:09.266 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/3 (description:) is down (Initializing)
+2018 Nov 28 22:12:09.274 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel3 is down (No operational members)
+2018 Nov 28 22:12:09.329 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel3, operational speed changed to 1 Gbps
+2018 Nov 28 22:12:09.329 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel3, operational duplex mode changed to Full
+2018 Nov 28 22:12:09.329 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel3, operational Receive Flow Control state changed to off
+2018 Nov 28 22:12:09.329 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel3, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:12:12.375 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel3: Ethernet1/3 is up
+2018 Nov 28 22:12:12.448 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel3: first operational port changed from none to Ethernet1/3
+2018 Nov 28 22:12:12.458 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/3 (description:) is up in mode access
+2018 Nov 28 22:12:12.476 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel3 is up in mode access
+2018 Nov 28 22:12:16.804 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel17: Ethernet1/17 is down
+2018 Nov 28 22:12:16.824 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel17: first operational port changed from Ethernet1/17 to none
+2018 Nov 28 22:12:16.856 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel17 is down (No operational members)
+2018 Nov 28 22:12:16.878 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/17 (description:) is down (Initializing)
+2018 Nov 28 22:12:16.887 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel17 is down (No operational members)
+2018 Nov 28 22:12:16.940 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel17, operational speed changed to 1 Gbps
+2018 Nov 28 22:12:16.940 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel17, operational duplex mode changed to Full
+2018 Nov 28 22:12:16.940 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel17, operational Receive Flow Control state changed to off
+2018 Nov 28 22:12:16.940 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel17, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:12:19.980 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel17: Ethernet1/17 is up
+2018 Nov 28 22:12:20.000 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel17: first operational port changed from none to Ethernet1/17
+2018 Nov 28 22:12:20.053 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/17 (description:) is up in mode access
+2018 Nov 28 22:12:20.082 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel17 is up in mode access
+2018 Nov 28 22:12:25.463 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel9: Ethernet1/9 is down
+2018 Nov 28 22:12:25.482 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel9: first operational port changed from Ethernet1/9 to none
+2018 Nov 28 22:12:25.511 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel9 is down (No operational members)
+2018 Nov 28 22:12:25.534 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/9 (description:) is down (Initializing)
+2018 Nov 28 22:12:25.542 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel9 is down (No operational members)
+2018 Nov 28 22:12:25.554 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel19: Ethernet1/19 is down
+2018 Nov 28 22:12:25.600 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel9, operational speed changed to 1 Gbps
+2018 Nov 28 22:12:25.600 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel9, operational duplex mode changed to Full
+2018 Nov 28 22:12:25.600 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel9, operational Receive Flow Control state changed to off
+2018 Nov 28 22:12:25.601 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel9, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:12:25.619 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel19: first operational port changed from Ethernet1/19 to none
+2018 Nov 28 22:12:25.641 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel19 is down (No operational members)
+2018 Nov 28 22:12:25.679 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/19 (description:) is down (Initializing)
+2018 Nov 28 22:12:25.687 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel19 is down (No operational members)
+2018 Nov 28 22:12:25.738 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel19, operational speed changed to 1 Gbps
+2018 Nov 28 22:12:25.739 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel19, operational duplex mode changed to Full
+2018 Nov 28 22:12:25.739 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel19, operational Receive Flow Control state changed to off
+2018 Nov 28 22:12:25.739 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel19, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:12:28.644 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel9: Ethernet1/9 is up
+2018 Nov 28 22:12:28.721 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel9: first operational port changed from none to Ethernet1/9
+2018 Nov 28 22:12:28.750 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/9 (description:) is up in mode access
+2018 Nov 28 22:12:28.776 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel9 is up in mode access
+2018 Nov 28 22:12:28.840 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel19: Ethernet1/19 is up
+2018 Nov 28 22:12:28.859 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel19: first operational port changed from none to Ethernet1/19
+2018 Nov 28 22:12:28.870 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/19 (description:) is up in mode access
+2018 Nov 28 22:12:28.885 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel19 is up in mode access
+2018 Nov 28 22:12:42.628 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel14: Ethernet1/14 is down
+2018 Nov 28 22:12:42.645 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel14: first operational port changed from Ethernet1/14 to none
+2018 Nov 28 22:12:42.663 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel14 is down (No operational members)
+2018 Nov 28 22:12:42.696 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/14 (description:) is down (Initializing)
+2018 Nov 28 22:12:42.707 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel14 is down (No operational members)
+2018 Nov 28 22:12:42.762 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel14, operational speed changed to 1 Gbps
+2018 Nov 28 22:12:42.762 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel14, operational duplex mode changed to Full
+2018 Nov 28 22:12:42.762 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel14, operational Receive Flow Control state changed to off
+2018 Nov 28 22:12:42.762 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel14, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:12:44.130 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel4: Ethernet1/4 is down
+2018 Nov 28 22:12:44.150 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel4: first operational port changed from Ethernet1/4 to none
+2018 Nov 28 22:12:44.168 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel4 is down (No operational members)
+2018 Nov 28 22:12:44.207 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/4 (description:) is down (Initializing)
+2018 Nov 28 22:12:44.215 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel4 is down (No operational members)
+2018 Nov 28 22:12:44.265 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel4, operational speed changed to 1 Gbps
+2018 Nov 28 22:12:44.265 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel4, operational duplex mode changed to Full
+2018 Nov 28 22:12:44.265 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel4, operational Receive Flow Control state changed to off
+2018 Nov 28 22:12:44.265 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel4, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:12:46.114 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel14: Ethernet1/14 is up
+2018 Nov 28 22:12:46.192 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel14: first operational port changed from none to Ethernet1/14
+2018 Nov 28 22:12:46.198 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/14 (description:) is up in mode access
+2018 Nov 28 22:12:46.216 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel14 is up in mode access
+2018 Nov 28 22:12:47.308 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel4: Ethernet1/4 is up
+2018 Nov 28 22:12:47.381 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel4: first operational port changed from none to Ethernet1/4
+2018 Nov 28 22:12:47.387 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/4 (description:) is up in mode access
+2018 Nov 28 22:12:47.404 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel4 is up in mode access
+2018 Nov 28 22:12:51.319 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel25: Ethernet1/25 is down
+2018 Nov 28 22:12:51.334 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel25: first operational port changed from Ethernet1/25 to none
+2018 Nov 28 22:12:51.356 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel25 is down (No operational members)
+2018 Nov 28 22:12:51.391 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/25 (description:) is down (Initializing)
+2018 Nov 28 22:12:51.400 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel25 is down (No operational members)
+2018 Nov 28 22:12:51.406 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel30: Ethernet1/30 is down
+2018 Nov 28 22:12:51.456 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel25, operational speed changed to 1 Gbps
+2018 Nov 28 22:12:51.457 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel25, operational duplex mode changed to Full
+2018 Nov 28 22:12:51.457 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel25, operational Receive Flow Control state changed to off
+2018 Nov 28 22:12:51.457 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel25, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:12:51.467 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel30: first operational port changed from Ethernet1/30 to none
+2018 Nov 28 22:12:51.487 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel30 is down (No operational members)
+2018 Nov 28 22:12:51.524 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/30 (description:) is down (Initializing)
+2018 Nov 28 22:12:51.533 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel30 is down (No operational members)
+2018 Nov 28 22:12:51.583 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel30, operational speed changed to 1 Gbps
+2018 Nov 28 22:12:51.583 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel30, operational duplex mode changed to Full
+2018 Nov 28 22:12:51.583 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel30, operational Receive Flow Control state changed to off
+2018 Nov 28 22:12:51.583 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel30, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:12:54.497 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel25: Ethernet1/25 is up
+2018 Nov 28 22:12:54.570 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel25: first operational port changed from none to Ethernet1/25
+2018 Nov 28 22:12:54.588 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/25 (description:) is up in mode access
+2018 Nov 28 22:12:54.618 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel25 is up in mode access
+2018 Nov 28 22:12:54.691 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel30: Ethernet1/30 is up
+2018 Nov 28 22:12:54.713 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel30: first operational port changed from none to Ethernet1/30
+2018 Nov 28 22:12:54.721 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/30 (description:) is up in mode access
+2018 Nov 28 22:12:54.737 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel30 is up in mode access
+2018 Nov 28 22:13:07.985 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel21: Ethernet1/21 is down
+2018 Nov 28 22:13:08.001 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel21: first operational port changed from Ethernet1/21 to none
+2018 Nov 28 22:13:08.019 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel21 is down (No operational members)
+2018 Nov 28 22:13:08.053 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/21 (description:) is down (Initializing)
+2018 Nov 28 22:13:08.061 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel21 is down (No operational members)
+2018 Nov 28 22:13:08.119 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel21, operational speed changed to 1 Gbps
+2018 Nov 28 22:13:08.120 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel21, operational duplex mode changed to Full
+2018 Nov 28 22:13:08.120 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel21, operational Receive Flow Control state changed to off
+2018 Nov 28 22:13:08.120 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel21, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:13:09.070 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel31: Ethernet1/31 is down
+2018 Nov 28 22:13:09.085 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel31: first operational port changed from Ethernet1/31 to none
+2018 Nov 28 22:13:09.115 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel31 is down (No operational members)
+2018 Nov 28 22:13:09.135 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/31 (description:) is down (Initializing)
+2018 Nov 28 22:13:09.144 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel31 is down (No operational members)
+2018 Nov 28 22:13:09.205 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel31, operational speed changed to 1 Gbps
+2018 Nov 28 22:13:09.205 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel31, operational duplex mode changed to Full
+2018 Nov 28 22:13:09.205 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel31, operational Receive Flow Control state changed to off
+2018 Nov 28 22:13:09.205 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel31, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:13:11.469 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel21: Ethernet1/21 is up
+2018 Nov 28 22:13:11.489 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel21: first operational port changed from none to Ethernet1/21
+2018 Nov 28 22:13:11.495 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/21 (description:) is up in mode access
+2018 Nov 28 22:13:11.510 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel21 is up in mode access
+2018 Nov 28 22:13:12.561 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel31: Ethernet1/31 is up
+2018 Nov 28 22:13:12.588 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel31: first operational port changed from none to Ethernet1/31
+2018 Nov 28 22:13:12.643 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/31 (description:) is up in mode access
+2018 Nov 28 22:13:12.665 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel31 is up in mode access
+2018 Nov 28 22:13:13.738 rsw1.net.mdu20-b-n58.n.p.dc07 %L2FM-2-L2FM_MAC_FLAP_RE_ENABLE_LEARN_N3K: Re-enabling dynamic learning on vlan 1020
+2018 Nov 28 22:13:13.807 rsw1.net.mdu20-b-n58.n.p.dc07 %L2FM-2-L2FM_MAC_FLAP_DISABLE_LEARN_N3K: Loops detected in the network for mac 0242.c021.32c1 among ports Po5 and Eth1/37 vlan 1020 - Disabling dynam
+ic learning notifications for a period between 120 and 240 seconds on vlan 1020
+2018 Nov 28 22:13:14.964 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel27: Ethernet1/27 is down
+2018 Nov 28 22:13:14.982 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel27: first operational port changed from Ethernet1/27 to none
+2018 Nov 28 22:13:15.001 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel27 is down (No operational members)
+2018 Nov 28 22:13:15.033 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/27 (description:) is down (Initializing)
+2018 Nov 28 22:13:15.044 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel27 is down (No operational members)
+2018 Nov 28 22:13:15.104 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel27, operational speed changed to 1 Gbps
+2018 Nov 28 22:13:15.104 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel27, operational duplex mode changed to Full
+2018 Nov 28 22:13:15.104 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel27, operational Receive Flow Control state changed to off
+2018 Nov 28 22:13:15.104 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel27, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:13:15.367 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel23: Ethernet1/23 is down
+2018 Nov 28 22:13:15.384 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel23: first operational port changed from Ethernet1/23 to none
+2018 Nov 28 22:13:15.425 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel23 is down (No operational members)
+2018 Nov 28 22:13:15.445 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/23 (description:) is down (Initializing)
+2018 Nov 28 22:13:15.448 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel23 is down (No operational members)
+2018 Nov 28 22:13:15.504 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel23, operational speed changed to 1 Gbps
+2018 Nov 28 22:13:15.504 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel23, operational duplex mode changed to Full
+2018 Nov 28 22:13:15.504 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel23, operational Receive Flow Control state changed to off
+2018 Nov 28 22:13:15.504 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel23, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:13:18.138 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel27: Ethernet1/27 is up
+2018 Nov 28 22:13:18.159 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel27: first operational port changed from none to Ethernet1/27
+2018 Nov 28 22:13:18.219 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/27 (description:) is up in mode access
+2018 Nov 28 22:13:18.251 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel27 is up in mode access
+2018 Nov 28 22:13:18.861 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel23: Ethernet1/23 is up
+2018 Nov 28 22:13:18.880 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel23: first operational port changed from none to Ethernet1/23
+2018 Nov 28 22:13:18.936 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/23 (description:) is up in mode access
+2018 Nov 28 22:13:18.952 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel23 is up in mode access
+2018 Nov 28 22:13:19.477 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel6: Ethernet1/6 is down
+2018 Nov 28 22:13:19.492 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel6: first operational port changed from Ethernet1/6 to none
+2018 Nov 28 22:13:19.510 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel6 is down (No operational members)
+2018 Nov 28 22:13:19.539 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/6 (description:) is down (Initializing)
+2018 Nov 28 22:13:19.547 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel6 is down (No operational members)
+2018 Nov 28 22:13:19.558 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel6, operational speed changed to 1 Gbps
+2018 Nov 28 22:13:19.559 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel6, operational duplex mode changed to Full
+2018 Nov 28 22:13:19.559 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel6, operational Receive Flow Control state changed to off
+2018 Nov 28 22:13:19.559 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel6, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:13:22.066 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel7: Ethernet1/7 is down
+2018 Nov 28 22:13:22.084 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel7: first operational port changed from Ethernet1/7 to none
+2018 Nov 28 22:13:22.106 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel7 is down (No operational members)
+2018 Nov 28 22:13:22.135 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/7 (description:) is down (Initializing)
+2018 Nov 28 22:13:22.141 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel7 is down (No operational members)
+2018 Nov 28 22:13:22.202 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel7, operational speed changed to 1 Gbps
+2018 Nov 28 22:13:22.202 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel7, operational duplex mode changed to Full
+2018 Nov 28 22:13:22.202 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel7, operational Receive Flow Control state changed to off
+2018 Nov 28 22:13:22.202 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel7, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:13:22.977 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel6: Ethernet1/6 is up
+2018 Nov 28 22:13:23.045 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel6: first operational port changed from none to Ethernet1/6
+2018 Nov 28 22:13:23.053 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/6 (description:) is up in mode access
+2018 Nov 28 22:13:23.074 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel6 is up in mode access
+2018 Nov 28 22:13:23.741 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel16: Ethernet1/16 is down
+2018 Nov 28 22:13:23.773 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel16: first operational port changed from Ethernet1/16 to none
+2018 Nov 28 22:13:23.818 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel16 is down (No operational members)
+2018 Nov 28 22:13:23.893 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/16 (description:) is down (Initializing)
+2018 Nov 28 22:13:23.904 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel16 is down (No operational members)
+2018 Nov 28 22:13:23.917 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel16, operational speed changed to 1 Gbps
+2018 Nov 28 22:13:23.917 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel16, operational duplex mode changed to Full
+2018 Nov 28 22:13:23.917 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel16, operational Receive Flow Control state changed to off
+2018 Nov 28 22:13:23.917 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel16, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:13:25.241 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel7: Ethernet1/7 is up
+2018 Nov 28 22:13:25.260 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel7: first operational port changed from none to Ethernet1/7
+2018 Nov 28 22:13:25.269 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel29: Ethernet1/29 is down
+2018 Nov 28 22:13:25.316 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/7 (description:) is up in mode access
+2018 Nov 28 22:13:25.330 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel29: first operational port changed from Ethernet1/29 to none
+2018 Nov 28 22:13:25.356 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel7 is up in mode access
+2018 Nov 28 22:13:25.378 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel29 is down (No operational members)
+2018 Nov 28 22:13:25.451 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/29 (description:) is down (Initializing)
+2018 Nov 28 22:13:25.460 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel29 is down (No operational members)
+2018 Nov 28 22:13:25.475 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel29, operational speed changed to 1 Gbps
+2018 Nov 28 22:13:25.475 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel29, operational duplex mode changed to Full
+2018 Nov 28 22:13:25.475 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel29, operational Receive Flow Control state changed to off
+2018 Nov 28 22:13:25.475 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel29, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:13:25.833 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel28: Ethernet1/28 is down
+2018 Nov 28 22:13:25.849 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel28: first operational port changed from Ethernet1/28 to none
+2018 Nov 28 22:13:25.865 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel28 is down (No operational members)
+2018 Nov 28 22:13:25.895 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/28 (description:) is down (Initializing)
+2018 Nov 28 22:13:25.900 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel28 is down (No operational members)
+2018 Nov 28 22:13:25.965 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel28, operational speed changed to 1 Gbps
+2018 Nov 28 22:13:25.965 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel28, operational duplex mode changed to Full
+2018 Nov 28 22:13:25.965 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel28, operational Receive Flow Control state changed to off
+2018 Nov 28 22:13:25.965 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel28, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:13:27.319 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel16: Ethernet1/16 is up
+2018 Nov 28 22:13:27.338 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel16: first operational port changed from none to Ethernet1/16
+2018 Nov 28 22:13:27.391 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/16 (description:) is up in mode access
+2018 Nov 28 22:13:27.412 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel16 is up in mode access
+2018 Nov 28 22:13:28.444 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel29: Ethernet1/29 is up
+2018 Nov 28 22:13:28.464 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel29: first operational port changed from none to Ethernet1/29
+2018 Nov 28 22:13:28.518 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/29 (description:) is up in mode access
+2018 Nov 28 22:13:28.538 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel29 is up in mode access
+2018 Nov 28 22:13:29.327 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel28: Ethernet1/28 is up
+2018 Nov 28 22:13:29.405 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel28: first operational port changed from none to Ethernet1/28
+2018 Nov 28 22:13:29.412 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/28 (description:) is up in mode access
+2018 Nov 28 22:13:29.427 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel28 is up in mode access
+2018 Nov 28 22:13:29.946 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel8: Ethernet1/8 is down
+2018 Nov 28 22:13:29.963 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel8: first operational port changed from Ethernet1/8 to none
+2018 Nov 28 22:13:29.977 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel8 is down (No operational members)
+2018 Nov 28 22:13:30.162 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/8 (description:) is down (Initializing)
+2018 Nov 28 22:13:30.170 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel8 is down (No operational members)
+2018 Nov 28 22:13:30.192 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel8, operational speed changed to 1 Gbps
+2018 Nov 28 22:13:30.192 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel8, operational duplex mode changed to Full
+2018 Nov 28 22:13:30.192 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel8, operational Receive Flow Control state changed to off
+2018 Nov 28 22:13:30.192 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel8, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:13:33.436 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel8: Ethernet1/8 is up
+2018 Nov 28 22:13:33.455 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel8: first operational port changed from none to Ethernet1/8
+2018 Nov 28 22:13:33.514 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/8 (description:) is up in mode access
+2018 Nov 28 22:13:33.529 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel8 is up in mode access
+2018 Nov 28 22:13:53.368 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel32: Ethernet1/32 is down
+2018 Nov 28 22:13:53.387 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel32: first operational port changed from Ethernet1/32 to none
+2018 Nov 28 22:13:53.408 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel32 is down (No operational members)
+2018 Nov 28 22:13:53.442 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/32 (description:) is down (Initializing)
+2018 Nov 28 22:13:53.449 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel32 is down (No operational members)
+2018 Nov 28 22:13:53.502 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel32, operational speed changed to 1 Gbps
+2018 Nov 28 22:13:53.502 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel32, operational duplex mode changed to Full
+2018 Nov 28 22:13:53.502 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel32, operational Receive Flow Control state changed to off
+2018 Nov 28 22:13:53.502 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel32, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:13:55.752 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel5: Ethernet1/5 is down
+2018 Nov 28 22:13:55.770 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel5: first operational port changed from Ethernet1/5 to none
+2018 Nov 28 22:13:55.788 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel5 is down (No operational members)
+2018 Nov 28 22:13:55.823 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/5 (description:) is down (Initializing)
+2018 Nov 28 22:13:55.831 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel5 is down (No operational members)
+2018 Nov 28 22:13:55.885 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel5, operational speed changed to 1 Gbps
+2018 Nov 28 22:13:55.885 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel5, operational duplex mode changed to Full
+2018 Nov 28 22:13:55.885 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel5, operational Receive Flow Control state changed to off
+2018 Nov 28 22:13:55.885 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel5, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:13:56.544 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel32: Ethernet1/32 is up
+2018 Nov 28 22:13:56.565 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel32: first operational port changed from none to Ethernet1/32
+2018 Nov 28 22:13:56.628 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/32 (description:) is up in mode access
+2018 Nov 28 22:13:56.658 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel32 is up in mode access
+2018 Nov 28 22:13:58.034 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel22: Ethernet1/22 is down
+2018 Nov 28 22:13:58.050 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel22: first operational port changed from Ethernet1/22 to none
+2018 Nov 28 22:13:58.069 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel22 is down (No operational members)
+2018 Nov 28 22:13:58.108 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/22 (description:) is down (Initializing)
+2018 Nov 28 22:13:58.117 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel22 is down (No operational members)
+2018 Nov 28 22:13:58.168 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel22, operational speed changed to 1 Gbps
+2018 Nov 28 22:13:58.168 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel22, operational duplex mode changed to Full
+2018 Nov 28 22:13:58.168 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel22, operational Receive Flow Control state changed to off
+2018 Nov 28 22:13:58.168 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel22, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:13:58.935 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel5: Ethernet1/5 is up
+2018 Nov 28 22:13:59.013 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel5: first operational port changed from none to Ethernet1/5
+2018 Nov 28 22:13:59.025 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/5 (description:) is up in mode access
+2018 Nov 28 22:13:59.056 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel5 is up in mode access
+2018 Nov 28 22:14:01.825 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel22: Ethernet1/22 is up
+2018 Nov 28 22:14:01.848 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel22: first operational port changed from none to Ethernet1/22
+2018 Nov 28 22:14:01.898 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/22 (description:) is up in mode access
+2018 Nov 28 22:14:01.929 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel22 is up in mode access
+2018 Nov 28 22:14:02.496 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel9: Ethernet1/9 is down
+2018 Nov 28 22:14:02.511 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel9: first operational port changed from Ethernet1/9 to none
+2018 Nov 28 22:14:02.530 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel9 is down (No operational members)
+2018 Nov 28 22:14:02.564 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/9 (description:) is down (Initializing)
+2018 Nov 28 22:14:02.571 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel9 is down (No operational members)
+2018 Nov 28 22:14:02.636 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel9, operational speed changed to 1 Gbps
+2018 Nov 28 22:14:02.636 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel9, operational duplex mode changed to Full
+2018 Nov 28 22:14:02.636 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel9, operational Receive Flow Control state changed to off
+2018 Nov 28 22:14:02.636 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel9, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:14:05.671 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel9: Ethernet1/9 is up
+2018 Nov 28 22:14:05.693 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel9: first operational port changed from none to Ethernet1/9
+2018 Nov 28 22:14:05.751 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/9 (description:) is up in mode access
+2018 Nov 28 22:14:05.767 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel9 is up in mode access
+2018 Nov 28 22:14:19.564 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel2: Ethernet1/2 is down
+2018 Nov 28 22:14:19.581 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel2: first operational port changed from Ethernet1/2 to none
+2018 Nov 28 22:14:19.602 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel2 is down (No operational members)
+2018 Nov 28 22:14:19.637 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/2 (description:) is down (Initializing)
+2018 Nov 28 22:14:19.641 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel2 is down (No operational members)
+2018 Nov 28 22:14:19.704 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel2, operational speed changed to 1 Gbps
+2018 Nov 28 22:14:19.704 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel2, operational duplex mode changed to Full
+2018 Nov 28 22:14:19.704 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel2, operational Receive Flow Control state changed to off
+2018 Nov 28 22:14:19.704 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel2, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:14:19.973 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel14: Ethernet1/14 is down
+2018 Nov 28 22:14:19.988 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel14: first operational port changed from Ethernet1/14 to none
+2018 Nov 28 22:14:20.006 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel14 is down (No operational members)
+2018 Nov 28 22:14:20.038 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/14 (description:) is down (Initializing)
+2018 Nov 28 22:14:20.042 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel14 is down (No operational members)
+2018 Nov 28 22:14:20.107 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel14, operational speed changed to 1 Gbps
+2018 Nov 28 22:14:20.107 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel14, operational duplex mode changed to Full
+2018 Nov 28 22:14:20.107 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel14, operational Receive Flow Control state changed to off
+2018 Nov 28 22:14:20.107 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel14, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:14:21.161 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel4: Ethernet1/4 is down
+2018 Nov 28 22:14:21.176 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel4: first operational port changed from Ethernet1/4 to none
+2018 Nov 28 22:14:21.198 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel4 is down (No operational members)
+2018 Nov 28 22:14:21.228 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/4 (description:) is down (Initializing)
+2018 Nov 28 22:14:21.235 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel4 is down (No operational members)
+2018 Nov 28 22:14:21.298 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel4, operational speed changed to 1 Gbps
+2018 Nov 28 22:14:21.298 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel4, operational duplex mode changed to Full
+2018 Nov 28 22:14:21.298 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel4, operational Receive Flow Control state changed to off
+2018 Nov 28 22:14:21.298 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel4, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:14:22.335 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel34: Ethernet1/34 is down
+2018 Nov 28 22:14:22.351 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel34: first operational port changed from Ethernet1/34 to none
+2018 Nov 28 22:14:22.369 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel34 is down (No operational members)
+2018 Nov 28 22:14:22.397 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/34 (description:) is down (Initializing)
+2018 Nov 28 22:14:22.407 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel34 is down (No operational members)
+2018 Nov 28 22:14:22.465 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel34, operational speed changed to 1 Gbps
+2018 Nov 28 22:14:22.465 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel34, operational duplex mode changed to Full
+2018 Nov 28 22:14:22.465 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel34, operational Receive Flow Control state changed to off
+2018 Nov 28 22:14:22.465 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel34, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:14:23.069 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel2: Ethernet1/2 is up
+2018 Nov 28 22:14:23.142 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel2: first operational port changed from none to Ethernet1/2
+2018 Nov 28 22:14:23.167 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/2 (description:) is up in mode access
+2018 Nov 28 22:14:23.189 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel2 is up in mode access
+2018 Nov 28 22:14:23.251 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel14: Ethernet1/14 is up
+2018 Nov 28 22:14:23.281 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel14: first operational port changed from none to Ethernet1/14
+2018 Nov 28 22:14:23.295 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/14 (description:) is up in mode access
+2018 Nov 28 22:14:23.313 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel14 is up in mode access
+2018 Nov 28 22:14:24.347 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel4: Ethernet1/4 is up
+2018 Nov 28 22:14:24.365 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel4: first operational port changed from none to Ethernet1/4
+2018 Nov 28 22:14:24.423 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/4 (description:) is up in mode access
+2018 Nov 28 22:14:24.437 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel4 is up in mode access
+2018 Nov 28 22:14:25.511 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel34: Ethernet1/34 is up
+2018 Nov 28 22:14:25.530 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel34: first operational port changed from none to Ethernet1/34
+2018 Nov 28 22:14:25.584 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/34 (description:) is up in mode access
+2018 Nov 28 22:14:25.604 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel34 is up in mode access
+2018 Nov 28 22:14:28.352 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel25: Ethernet1/25 is down
+2018 Nov 28 22:14:28.368 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel25: first operational port changed from Ethernet1/25 to none
+2018 Nov 28 22:14:28.387 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel25 is down (No operational members)
+2018 Nov 28 22:14:28.420 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/25 (description:) is down (Initializing)
+2018 Nov 28 22:14:28.428 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel25 is down (No operational members)
+2018 Nov 28 22:14:28.437 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel30: Ethernet1/30 is down
+2018 Nov 28 22:14:28.490 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel25, operational speed changed to 1 Gbps
+2018 Nov 28 22:14:28.491 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel25, operational duplex mode changed to Full
+2018 Nov 28 22:14:28.491 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel25, operational Receive Flow Control state changed to off
+2018 Nov 28 22:14:28.491 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel25, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:14:28.504 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel30: first operational port changed from Ethernet1/30 to none
+2018 Nov 28 22:14:28.532 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel30 is down (No operational members)
+2018 Nov 28 22:14:28.633 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/30 (description:) is down (Initializing)
+2018 Nov 28 22:14:28.640 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel30 is down (No operational members)
+2018 Nov 28 22:14:28.653 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel30, operational speed changed to 1 Gbps
+2018 Nov 28 22:14:28.653 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel30, operational duplex mode changed to Full
+2018 Nov 28 22:14:28.653 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel30, operational Receive Flow Control state changed to off
+2018 Nov 28 22:14:28.653 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel30, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:14:31.525 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel25: Ethernet1/25 is up
+2018 Nov 28 22:14:31.544 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel25: first operational port changed from none to Ethernet1/25
+2018 Nov 28 22:14:31.620 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/25 (description:) is up in mode access
+2018 Nov 28 22:14:31.641 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel25 is up in mode access
+2018 Nov 28 22:14:31.722 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel30: Ethernet1/30 is up
+2018 Nov 28 22:14:31.741 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel30: first operational port changed from none to Ethernet1/30
+2018 Nov 28 22:14:31.748 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/30 (description:) is up in mode access
+2018 Nov 28 22:14:31.762 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel30 is up in mode access
+2018 Nov 28 22:14:32.340 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel35: Ethernet1/35 is down
+2018 Nov 28 22:14:32.358 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel35: first operational port changed from Ethernet1/35 to none
+2018 Nov 28 22:14:32.376 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel35 is down (No operational members)
+2018 Nov 28 22:14:32.413 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/35 (description:) is down (Initializing)
+2018 Nov 28 22:14:32.423 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel35 is down (No operational members)
+2018 Nov 28 22:14:32.478 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel35, operational speed changed to 1 Gbps
+2018 Nov 28 22:14:32.478 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel35, operational duplex mode changed to Full
+2018 Nov 28 22:14:32.478 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel35, operational Receive Flow Control state changed to off
+2018 Nov 28 22:14:32.478 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel35, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:14:35.510 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel35: Ethernet1/35 is up
+2018 Nov 28 22:14:35.529 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel35: first operational port changed from none to Ethernet1/35
+2018 Nov 28 22:14:35.534 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/35 (description:) is up in mode access
+2018 Nov 28 22:14:35.556 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel35 is up in mode access
+2018 Nov 28 22:14:45.193 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel18: Ethernet1/18 is down
+2018 Nov 28 22:14:45.208 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel18: first operational port changed from Ethernet1/18 to none
+2018 Nov 28 22:14:45.225 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel18 is down (No operational members)
+2018 Nov 28 22:14:45.259 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/18 (description:) is down (Initializing)
+2018 Nov 28 22:14:45.263 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel18 is down (No operational members)
+2018 Nov 28 22:14:45.325 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel18, operational speed changed to 1 Gbps
+2018 Nov 28 22:14:45.325 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel18, operational duplex mode changed to Full
+2018 Nov 28 22:14:45.325 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel18, operational Receive Flow Control state changed to off
+2018 Nov 28 22:14:45.325 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel18, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:14:46.733 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel20: Ethernet1/20 is down
+2018 Nov 28 22:14:46.750 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel20: first operational port changed from Ethernet1/20 to none
+2018 Nov 28 22:14:46.771 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel20 is down (No operational members)
+2018 Nov 28 22:14:46.807 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/20 (description:) is down (Initializing)
+2018 Nov 28 22:14:46.817 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel20 is down (No operational members)
+2018 Nov 28 22:14:46.868 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel20, operational speed changed to 1 Gbps
+2018 Nov 28 22:14:46.868 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel20, operational duplex mode changed to Full
+2018 Nov 28 22:14:46.868 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel20, operational Receive Flow Control state changed to off
+2018 Nov 28 22:14:46.868 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel20, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:14:48.372 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel18: Ethernet1/18 is up
+2018 Nov 28 22:14:48.393 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel18: first operational port changed from none to Ethernet1/18
+2018 Nov 28 22:14:48.446 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/18 (description:) is up in mode access
+2018 Nov 28 22:14:48.461 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel18 is up in mode access
+2018 Nov 28 22:14:49.909 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel20: Ethernet1/20 is up
+2018 Nov 28 22:14:49.929 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel20: first operational port changed from none to Ethernet1/20
+2018 Nov 28 22:14:49.982 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/20 (description:) is up in mode access
+2018 Nov 28 22:14:49.999 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel20 is up in mode access
+2018 Nov 28 22:14:52.399 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel23: Ethernet1/23 is down
+2018 Nov 28 22:14:52.415 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel23: first operational port changed from Ethernet1/23 to none
+2018 Nov 28 22:14:52.435 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel23 is down (No operational members)
+2018 Nov 28 22:14:52.464 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/23 (description:) is down (Initializing)
+2018 Nov 28 22:14:52.475 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel23 is down (No operational members)
+2018 Nov 28 22:14:52.530 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel23, operational speed changed to 1 Gbps
+2018 Nov 28 22:14:52.530 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel23, operational duplex mode changed to Full
+2018 Nov 28 22:14:52.530 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel23, operational Receive Flow Control state changed to off
+2018 Nov 28 22:14:52.530 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel23, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:14:53.739 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel17: Ethernet1/17 is down
+2018 Nov 28 22:14:53.763 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel17: first operational port changed from Ethernet1/17 to none
+2018 Nov 28 22:14:53.787 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel17 is down (No operational members)
+2018 Nov 28 22:14:53.971 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/17 (description:) is down (Initializing)
+2018 Nov 28 22:14:53.979 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel17 is down (No operational members)
+2018 Nov 28 22:14:53.996 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel17, operational speed changed to 1 Gbps
+2018 Nov 28 22:14:53.996 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel17, operational duplex mode changed to Full
+2018 Nov 28 22:14:53.996 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel17, operational Receive Flow Control state changed to off
+2018 Nov 28 22:14:53.996 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel17, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:14:55.888 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel23: Ethernet1/23 is up
+2018 Nov 28 22:14:55.908 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel23: first operational port changed from none to Ethernet1/23
+2018 Nov 28 22:14:55.963 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/23 (description:) is up in mode access
+2018 Nov 28 22:14:55.980 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel23 is up in mode access
+2018 Nov 28 22:14:56.915 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel17: Ethernet1/17 is up
+2018 Nov 28 22:14:56.935 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel17: first operational port changed from none to Ethernet1/17
+2018 Nov 28 22:14:56.997 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/17 (description:) is up in mode access
+2018 Nov 28 22:14:57.023 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel17 is up in mode access
+2018 Nov 28 22:15:01.989 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel29: Ethernet1/29 is down
+2018 Nov 28 22:15:02.006 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel29: first operational port changed from Ethernet1/29 to none
+2018 Nov 28 22:15:02.024 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel29 is down (No operational members)
+2018 Nov 28 22:15:02.058 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/29 (description:) is down (Initializing)
+2018 Nov 28 22:15:02.067 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel29 is down (No operational members)
+2018 Nov 28 22:15:02.121 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel29, operational speed changed to 1 Gbps
+2018 Nov 28 22:15:02.121 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel29, operational duplex mode changed to Full
+2018 Nov 28 22:15:02.121 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel29, operational Receive Flow Control state changed to off
+2018 Nov 28 22:15:02.121 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel29, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:15:05.479 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel29: Ethernet1/29 is up
+2018 Nov 28 22:15:05.499 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel29: first operational port changed from none to Ethernet1/29
+2018 Nov 28 22:15:05.555 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/29 (description:) is up in mode access
+2018 Nov 28 22:15:05.571 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel29 is up in mode access
+2018 Nov 28 22:15:06.978 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel8: Ethernet1/8 is down
+2018 Nov 28 22:15:06.994 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel8: first operational port changed from Ethernet1/8 to none
+2018 Nov 28 22:15:07.007 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel8 is down (No operational members)
+2018 Nov 28 22:15:07.044 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/8 (description:) is down (Initializing)
+2018 Nov 28 22:15:07.051 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel8 is down (No operational members)
+2018 Nov 28 22:15:07.114 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel8, operational speed changed to 1 Gbps
+2018 Nov 28 22:15:07.114 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel8, operational duplex mode changed to Full
+2018 Nov 28 22:15:07.114 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel8, operational Receive Flow Control state changed to off
+2018 Nov 28 22:15:07.114 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel8, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:15:10.457 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel8: Ethernet1/8 is up
+2018 Nov 28 22:15:10.476 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel8: first operational port changed from none to Ethernet1/8
+2018 Nov 28 22:15:10.484 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/8 (description:) is up in mode access
+2018 Nov 28 22:15:10.508 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel8 is up in mode access
+2018 Nov 28 22:15:16.079 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel3: Ethernet1/3 is down
+2018 Nov 28 22:15:16.097 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel3: first operational port changed from Ethernet1/3 to none
+2018 Nov 28 22:15:16.118 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel3 is down (No operational members)
+2018 Nov 28 22:15:16.156 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/3 (description:) is down (Initializing)
+2018 Nov 28 22:15:16.164 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel3 is down (No operational members)
+2018 Nov 28 22:15:16.215 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel3, operational speed changed to 1 Gbps
+2018 Nov 28 22:15:16.215 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel3, operational duplex mode changed to Full
+2018 Nov 28 22:15:16.215 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel3, operational Receive Flow Control state changed to off
+2018 Nov 28 22:15:16.215 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel3, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:15:16.366 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel31: Ethernet1/31 is down
+2018 Nov 28 22:15:16.386 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel31: first operational port changed from Ethernet1/31 to none
+2018 Nov 28 22:15:16.410 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel31 is down (No operational members)
+2018 Nov 28 22:15:16.499 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/31 (description:) is down (Initializing)
+2018 Nov 28 22:15:16.507 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel31 is down (No operational members)
+2018 Nov 28 22:15:16.521 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel31, operational speed changed to 1 Gbps
+2018 Nov 28 22:15:16.522 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel31, operational duplex mode changed to Full
+2018 Nov 28 22:15:16.522 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel31, operational Receive Flow Control state changed to off
+2018 Nov 28 22:15:16.522 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel31, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:15:19.258 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel3: Ethernet1/3 is up
+2018 Nov 28 22:15:19.277 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel3: first operational port changed from none to Ethernet1/3
+2018 Nov 28 22:15:19.334 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/3 (description:) is up in mode access
+2018 Nov 28 22:15:19.353 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel3 is up in mode access
+2018 Nov 28 22:15:19.547 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel31: Ethernet1/31 is up
+2018 Nov 28 22:15:19.618 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel31: first operational port changed from none to Ethernet1/31
+2018 Nov 28 22:15:19.626 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/31 (description:) is up in mode access
+2018 Nov 28 22:15:19.640 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel31 is up in mode access
+2018 Nov 28 22:15:21.948 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel27: Ethernet1/27 is down
+2018 Nov 28 22:15:21.964 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel27: first operational port changed from Ethernet1/27 to none
+2018 Nov 28 22:15:21.983 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel27 is down (No operational members)
+2018 Nov 28 22:15:22.021 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/27 (description:) is down (Initializing)
+2018 Nov 28 22:15:22.030 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel27 is down (No operational members)
+2018 Nov 28 22:15:22.083 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel27, operational speed changed to 1 Gbps
+2018 Nov 28 22:15:22.084 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel27, operational duplex mode changed to Full
+2018 Nov 28 22:15:22.084 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel27, operational Receive Flow Control state changed to off
+2018 Nov 28 22:15:22.084 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel27, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:15:25.126 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel27: Ethernet1/27 is up
+2018 Nov 28 22:15:25.145 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel27: first operational port changed from none to Ethernet1/27
+2018 Nov 28 22:15:25.201 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/27 (description:) is up in mode access
+2018 Nov 28 22:15:25.215 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel27 is up in mode access
+2018 Nov 28 22:15:30.087 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel32: Ethernet1/32 is down
+2018 Nov 28 22:15:30.107 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel32: first operational port changed from Ethernet1/32 to none
+2018 Nov 28 22:15:30.128 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel32 is down (No operational members)
+2018 Nov 28 22:15:30.153 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/32 (description:) is down (Initializing)
+2018 Nov 28 22:15:30.165 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel32 is down (No operational members)
+2018 Nov 28 22:15:30.224 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel32, operational speed changed to 1 Gbps
+2018 Nov 28 22:15:30.224 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel32, operational duplex mode changed to Full
+2018 Nov 28 22:15:30.224 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel32, operational Receive Flow Control state changed to off
+2018 Nov 28 22:15:30.224 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel32, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:15:32.784 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel5: Ethernet1/5 is down
+2018 Nov 28 22:15:32.801 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel5: first operational port changed from Ethernet1/5 to none
+2018 Nov 28 22:15:32.824 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel5 is down (No operational members)
+2018 Nov 28 22:15:32.856 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/5 (description:) is down (Initializing)
+2018 Nov 28 22:15:32.864 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel5 is down (No operational members)
+2018 Nov 28 22:15:32.921 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel5, operational speed changed to 1 Gbps
+2018 Nov 28 22:15:32.921 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel5, operational duplex mode changed to Full
+2018 Nov 28 22:15:32.921 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel5, operational Receive Flow Control state changed to off
+2018 Nov 28 22:15:32.921 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel5, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:15:33.576 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel32: Ethernet1/32 is up
+2018 Nov 28 22:15:33.595 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel32: first operational port changed from none to Ethernet1/32
+2018 Nov 28 22:15:33.653 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/32 (description:) is up in mode access
+2018 Nov 28 22:15:33.668 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel32 is up in mode access
+2018 Nov 28 22:15:35.962 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel5: Ethernet1/5 is up
+2018 Nov 28 22:15:36.035 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel5: first operational port changed from none to Ethernet1/5
+2018 Nov 28 22:15:36.041 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/5 (description:) is up in mode access
+2018 Nov 28 22:15:36.070 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel5 is up in mode access
+2018 Nov 28 22:15:45.233 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel21: Ethernet1/21 is down
+2018 Nov 28 22:15:45.250 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel21: first operational port changed from Ethernet1/21 to none
+2018 Nov 28 22:15:45.271 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel21 is down (No operational members)
+2018 Nov 28 22:15:45.366 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/21 (description:) is down (Initializing)
+2018 Nov 28 22:15:45.386 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel21 is down (No operational members)
+2018 Nov 28 22:15:45.399 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel21, operational speed changed to 1 Gbps
+2018 Nov 28 22:15:45.399 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel21, operational duplex mode changed to Full
+2018 Nov 28 22:15:45.399 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel21, operational Receive Flow Control state changed to off
+2018 Nov 28 22:15:45.399 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel21, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:15:48.421 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel21: Ethernet1/21 is up
+2018 Nov 28 22:15:48.504 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel21: first operational port changed from none to Ethernet1/21
+2018 Nov 28 22:15:48.509 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/21 (description:) is up in mode access
+2018 Nov 28 22:15:48.534 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel21 is up in mode access
+2018 Nov 28 22:15:56.811 rsw1.net.mdu20-b-n58.n.p.dc07 %L2FM-2-L2FM_MAC_FLAP_RE_ENABLE_LEARN_N3K: Re-enabling dynamic learning on vlan 1020
+2018 Nov 28 22:15:56.909 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel2: Ethernet1/2 is down
+2018 Nov 28 22:15:56.924 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel2: first operational port changed from Ethernet1/2 to none
+2018 Nov 28 22:15:56.948 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel2 is down (No operational members)
+2018 Nov 28 22:15:56.983 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/2 (description:) is down (Initializing)
+2018 Nov 28 22:15:56.990 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel2 is down (No operational members)
+2018 Nov 28 22:15:57.005 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel14: Ethernet1/14 is down
+2018 Nov 28 22:15:57.042 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel2, operational speed changed to 1 Gbps
+2018 Nov 28 22:15:57.043 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel2, operational duplex mode changed to Full
+2018 Nov 28 22:15:57.043 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel2, operational Receive Flow Control state changed to off
+2018 Nov 28 22:15:57.043 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel2, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:15:57.058 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel14: first operational port changed from Ethernet1/14 to none
+2018 Nov 28 22:15:57.077 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel14 is down (No operational members)
+2018 Nov 28 22:15:57.120 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/14 (description:) is down (Initializing)
+2018 Nov 28 22:15:57.128 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel14 is down (No operational members)
+2018 Nov 28 22:15:57.179 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel14, operational speed changed to 1 Gbps
+2018 Nov 28 22:15:57.179 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel14, operational duplex mode changed to Full
+2018 Nov 28 22:15:57.179 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel14, operational Receive Flow Control state changed to off
+2018 Nov 28 22:15:57.179 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel14, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:15:57.823 rsw1.net.mdu20-b-n58.n.p.dc07 %L2FM-2-L2FM_MAC_FLAP_DISABLE_LEARN_N3K: Loops detected in the network for mac 0242.c021.32bf among ports Po7 and Eth1/37 vlan 1020 - Disabling dynam
+ic learning notifications for a period between 120 and 240 seconds on vlan 1020
+2018 Nov 28 22:15:57.883 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel4: Ethernet1/4 is down
+2018 Nov 28 22:15:57.904 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel4: first operational port changed from Ethernet1/4 to none
+2018 Nov 28 22:15:58.332 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel4 is down (No operational members)
+2018 Nov 28 22:15:58.544 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/4 (description:) is down (Initializing)
+2018 Nov 28 22:15:58.561 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel4 is down (No operational members)
+2018 Nov 28 22:15:58.595 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel4, operational speed changed to 1 Gbps
+2018 Nov 28 22:15:58.595 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel4, operational duplex mode changed to Full
+2018 Nov 28 22:15:58.595 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel4, operational Receive Flow Control state changed to off
+2018 Nov 28 22:15:58.595 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel4, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:15:59.002 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel7: Ethernet1/7 is down
+2018 Nov 28 22:15:59.017 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel7: first operational port changed from Ethernet1/7 to none
+2018 Nov 28 22:15:59.038 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel7 is down (No operational members)
+2018 Nov 28 22:15:59.057 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel34: Ethernet1/34 is down
+2018 Nov 28 22:15:59.084 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/7 (description:) is down (Initializing)
+2018 Nov 28 22:15:59.101 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel7 is down (No operational members)
+2018 Nov 28 22:15:59.136 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel34: first operational port changed from Ethernet1/34 to none
+2018 Nov 28 22:15:59.147 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel7, operational speed changed to 1 Gbps
+2018 Nov 28 22:15:59.147 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel7, operational duplex mode changed to Full
+2018 Nov 28 22:15:59.147 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel7, operational Receive Flow Control state changed to off
+2018 Nov 28 22:15:59.147 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel7, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:15:59.280 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel34 is down (No operational members)
+2018 Nov 28 22:15:59.321 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/34 (description:) is down (Initializing)
+2018 Nov 28 22:15:59.331 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel34 is down (No operational members)
+2018 Nov 28 22:15:59.384 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel34, operational speed changed to 1 Gbps
+2018 Nov 28 22:15:59.385 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel34, operational duplex mode changed to Full
+2018 Nov 28 22:15:59.385 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel34, operational Receive Flow Control state changed to off
+2018 Nov 28 22:15:59.385 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel34, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:16:00.087 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel2: Ethernet1/2 is up
+2018 Nov 28 22:16:00.107 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel2: first operational port changed from none to Ethernet1/2
+2018 Nov 28 22:16:00.169 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/2 (description:) is up in mode access
+2018 Nov 28 22:16:00.209 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel2 is up in mode access
+2018 Nov 28 22:16:00.221 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel14: Ethernet1/14 is up
+2018 Nov 28 22:16:00.297 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel14: first operational port changed from none to Ethernet1/14
+2018 Nov 28 22:16:00.458 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/14 (description:) is up in mode access
+2018 Nov 28 22:16:00.494 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel14 is up in mode access
+2018 Nov 28 22:16:01.375 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel4: Ethernet1/4 is up
+2018 Nov 28 22:16:01.448 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel4: first operational port changed from none to Ethernet1/4
+2018 Nov 28 22:16:01.458 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/4 (description:) is up in mode access
+2018 Nov 28 22:16:01.484 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel4 is up in mode access
+2018 Nov 28 22:16:02.185 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel7: Ethernet1/7 is up
+2018 Nov 28 22:16:02.255 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel7: first operational port changed from none to Ethernet1/7
+2018 Nov 28 22:16:02.263 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/7 (description:) is up in mode access
+2018 Nov 28 22:16:02.281 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel7 is up in mode access
+2018 Nov 28 22:16:02.556 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel34: Ethernet1/34 is up
+2018 Nov 28 22:16:02.577 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel34: first operational port changed from none to Ethernet1/34
+2018 Nov 28 22:16:02.633 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/34 (description:) is up in mode access
+2018 Nov 28 22:16:02.651 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel34 is up in mode access
+2018 Nov 28 22:16:05.072 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel25: Ethernet1/25 is down
+2018 Nov 28 22:16:05.090 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel25: first operational port changed from Ethernet1/25 to none
+2018 Nov 28 22:16:05.109 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel25 is down (No operational members)
+2018 Nov 28 22:16:05.148 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/25 (description:) is down (Initializing)
+2018 Nov 28 22:16:05.156 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel25 is down (No operational members)
+2018 Nov 28 22:16:05.208 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel25, operational speed changed to 1 Gbps
+2018 Nov 28 22:16:05.208 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel25, operational duplex mode changed to Full
+2018 Nov 28 22:16:05.208 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel25, operational Receive Flow Control state changed to off
+2018 Nov 28 22:16:05.208 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel25, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:16:05.460 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel30: Ethernet1/30 is down
+2018 Nov 28 22:16:05.478 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel30: first operational port changed from Ethernet1/30 to none
+2018 Nov 28 22:16:05.518 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel30 is down (No operational members)
+2018 Nov 28 22:16:05.539 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/30 (description:) is down (Initializing)
+2018 Nov 28 22:16:05.548 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel30 is down (No operational members)
+2018 Nov 28 22:16:05.605 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel30, operational speed changed to 1 Gbps
+2018 Nov 28 22:16:05.605 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel30, operational duplex mode changed to Full
+2018 Nov 28 22:16:05.605 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel30, operational Receive Flow Control state changed to off
+2018 Nov 28 22:16:05.605 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel30, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:16:05.643 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel22: Ethernet1/22 is down
+2018 Nov 28 22:16:05.660 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel22: first operational port changed from Ethernet1/22 to none
+2018 Nov 28 22:16:05.702 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel22 is down (No operational members)
+2018 Nov 28 22:16:05.723 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/22 (description:) is down (Initializing)
+2018 Nov 28 22:16:05.726 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel22 is down (No operational members)
+2018 Nov 28 22:16:05.776 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel22, operational speed changed to 1 Gbps
+2018 Nov 28 22:16:05.776 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel22, operational duplex mode changed to Full
+2018 Nov 28 22:16:05.776 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel22, operational Receive Flow Control state changed to off
+2018 Nov 28 22:16:05.776 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel22, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:16:08.557 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel25: Ethernet1/25 is up
+2018 Nov 28 22:16:08.577 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel25: first operational port changed from none to Ethernet1/25
+2018 Nov 28 22:16:08.640 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/25 (description:) is up in mode access
+2018 Nov 28 22:16:08.706 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel25 is up in mode access
+2018 Nov 28 22:16:08.758 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel30: Ethernet1/30 is up
+2018 Nov 28 22:16:08.781 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel30: first operational port changed from none to Ethernet1/30
+2018 Nov 28 22:16:08.792 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/30 (description:) is up in mode access
+2018 Nov 28 22:16:08.844 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel30 is up in mode access
+2018 Nov 28 22:16:08.907 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel22: Ethernet1/22 is up
+2018 Nov 28 22:16:08.934 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel22: first operational port changed from none to Ethernet1/22
+2018 Nov 28 22:16:08.945 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/22 (description:) is up in mode access
+2018 Nov 28 22:16:09.022 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel22 is up in mode access
+2018 Nov 28 22:16:09.481 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel9: Ethernet1/9 is down
+2018 Nov 28 22:16:09.499 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel9: first operational port changed from Ethernet1/9 to none
+2018 Nov 28 22:16:09.521 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel9 is down (No operational members)
+2018 Nov 28 22:16:09.556 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/9 (description:) is down (Initializing)
+2018 Nov 28 22:16:09.562 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel9 is down (No operational members)
+2018 Nov 28 22:16:09.619 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel9, operational speed changed to 1 Gbps
+2018 Nov 28 22:16:09.619 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel9, operational duplex mode changed to Full
+2018 Nov 28 22:16:09.619 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel9, operational Receive Flow Control state changed to off
+2018 Nov 28 22:16:09.619 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel9, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:16:12.652 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel9: Ethernet1/9 is up
+2018 Nov 28 22:16:12.677 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel9: first operational port changed from none to Ethernet1/9
+2018 Nov 28 22:16:12.732 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/9 (description:) is up in mode access
+2018 Nov 28 22:16:12.747 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel9 is up in mode access
+2018 Nov 28 22:16:12.760 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/37 (description:) is down (Link failure)
+2018 Nov 28 22:16:12.812 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_INDIVIDUAL_DOWN: individual port Ethernet1/37 is down
+2018 Nov 28 22:16:15.094 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_DOWN: port-channel11: Ethernet1/11 is down
+2018 Nov 28 22:16:15.109 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel11: first operational port changed from Ethernet1/11 to none
+2018 Nov 28 22:16:15.126 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel11 is down (No operational members)
+2018 Nov 28 22:16:15.156 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_INITIALIZING: Interface Ethernet1/11 (description:) is down (Initializing)
+2018 Nov 28 22:16:15.169 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_PORT_CHANNEL_MEMBERS_DOWN: Interface port-channel11 is down (No operational members)
+2018 Nov 28 22:16:15.223 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-SPEED: Interface port-channel11, operational speed changed to 1 Gbps
+2018 Nov 28 22:16:15.223 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DUPLEX: Interface port-channel11, operational duplex mode changed to Full
+2018 Nov 28 22:16:15.223 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_RX_FLOW_CONTROL: Interface port-channel11, operational Receive Flow Control state changed to off
+2018 Nov 28 22:16:15.223 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_TX_FLOW_CONTROL: Interface port-channel11, operational Transmit Flow Control state changed to off
+2018 Nov 28 22:16:18.265 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_UP: port-channel11: Ethernet1/11 is up
+2018 Nov 28 22:16:18.283 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-FOP_CHANGED: port-channel11: first operational port changed from none to Ethernet1/11
+2018 Nov 28 22:16:18.293 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface Ethernet1/11 (description:) is up in mode access
+2018 Nov 28 22:16:18.311 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_UP: Interface port-channel11 is up in mode access
+2018 Nov 28 22:16:19.734 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/38 (description:) is down (Link failure)
+2018 Nov 28 22:16:19.776 rsw1.net.mdu20-b-n58.n.p.dc07 %ETH_PORT_CHANNEL-5-PORT_INDIVIDUAL_DOWN: individual port Ethernet1/38 is down
+2018 Nov 28 22:19:04.828 rsw1.net.mdu20-b-n58.n.p.dc07 %L2FM-2-L2FM_MAC_FLAP_RE_ENABLE_LEARN_N3K: Re-enabling dynamic learning on vlan 1020
+2018 Nov 28 22:40:36.898 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet1/38 (description:) is down (Administratively down)
+2018 Nov 28 22:40:36.926 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet1/37 (description:) is down (Administratively down)
+2018 Nov 28 22:40:40.140 rsw1.net.mdu20-b-n58.n.p.dc07 %VSHD-5-VSHD_SYSLOG_CONFIG_I: Configured from vty by wangqiming on 10.2.130.89@pts/1
