@@ -1002,3 +1002,4 @@ ic learning notifications for a period between 120 and 240 seconds on vlan 1020
 2018 Nov 28 22:40:36.898 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet1/38 (description:) is down (Administratively down)
 2018 Nov 28 22:40:36.926 rsw1.net.mdu20-b-n58.n.p.dc07 %ETHPORT-5-IF_DOWN_ADMIN_DOWN: Interface Ethernet1/37 (description:) is down (Administratively down)
 2018 Nov 28 22:40:40.140 rsw1.net.mdu20-b-n58.n.p.dc07 %VSHD-5-VSHD_SYSLOG_CONFIG_I: Configured from vty by wangqiming on 10.2.130.89@pts/1
+AAAAAAAAAAAAAa
